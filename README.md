@@ -23,7 +23,7 @@
 | Project | Tech Stack | Description |
 |----------|-------------|-------------|
 | **Cocos Nucifera Tours & Safaris** | CodeIgniter 4 | End-to-end tourism booking & management platform. |
-| **Tawakal Hospital Management System** | PHP | Hospital system with patients, staff, pharmacy, billing, and API integration (NHIF, JUBILEE, ZHSSF). |
+| **Tawakal Hospital Management System** | PHP | Hospital system with patients, staff, pharmacy, billing, and API integration (NHIF, JUBILEE, ZHSF). |
 | **Tayra API** | Electron + React (Vite) + CodeIgniter | Desktop API testing & management app with AI integration. |
 | **Tayter** | React Native + SQLite | Offline habit tracker, task, project, and life planner app. |
 | **Let's Talk** | React Native + CodeIgniter + Python | Real-time chat app with video posts and live streaming (AI content moderation). |
