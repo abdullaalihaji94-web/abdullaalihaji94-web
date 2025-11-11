@@ -26,7 +26,7 @@
 | **Tawakal Hospital Management System** | PHP | Hospital system with patients, staff, pharmacy, billing, and API integration (NHIF, JUBILEE, ZHSF). |
 | **Tayra API** | Electron + React (Vite) + CodeIgniter | Desktop API testing & management app with AI integration. |
 | **Tayter** | React Native + SQLite | Offline habit tracker, task, project, and life planner app. |
-| **Let's Talk** | React Native + CodeIgniter + Python | Real-time chat app with video posts and live streaming (AI content moderation). |
+| **Let's Talk** | React Native + Laravel + Python | Real-time chat app with video posts and live streaming (AI content moderation). |
 | **CPMS – Construction Project Management System** | Laravel | Tracks projects, budgets, and accounting for construction firms. |
 | **Subscriber – Multi Pharmacy Management** | CodeIgniter | Multi-branch pharmacy and inventory management system. |
 | **Tashyhina Golden Beauty Saloon** | PHP | Beauty and gift salon management web system. |
